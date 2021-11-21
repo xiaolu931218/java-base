@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8926116-d96e-40fc-81ef-521a6754d658" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/src/main/java/com/atguigu/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03/src/main/java/com/atguigu/StringTest.java" afterDir="false" />
     </list>
+    <list id="00a537de-f450-4c10-a57a-040f3f5eb4b7" name="ignore" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,13 +58,15 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,11 +97,13 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a8926116-d96e-40fc-81ef-521a6754d658" name="Default Changelist" comment="" />
+      <changelist id="00a537de-f450-4c10-a57a-040f3f5eb4b7" name="ignore" comment="" />
       <created>1637484924947</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637484924947</updated>
-      <workItem from="1637484926204" duration="4060000" />
+      <workItem from="1637484926204" duration="4143000" />
+      <workItem from="1637501632787" duration="1485000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1637485142429</created>
@@ -127,7 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637490708394</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加git文件">
+      <created>1637490817977</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637490817977</updated>
+    </task>
+    <task id="LOCAL-00006" summary="添加git文件">
+      <created>1637490834804</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637490834804</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,8 +157,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="first commit" />
-    <MESSAGE value="添加git文件" />
     <MESSAGE value="添加day03" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加day03" />
+    <MESSAGE value="添加git文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加git文件" />
   </component>
 </project>
