@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8926116-d96e-40fc-81ef-521a6754d658" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day03/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/src/main/java/com/atguigu/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637484924947</updated>
-      <workItem from="1637484926204" duration="3709000" />
+      <workItem from="1637484926204" duration="4060000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1637485142429</created>
@@ -116,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637485167257</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="添加git文件">
+      <created>1637490692004</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637490692004</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加day03">
+      <created>1637490708394</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637490708394</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +137,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="添加git文件" />
+    <MESSAGE value="添加day03" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加day03" />
   </component>
 </project>
