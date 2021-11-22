@@ -2,6 +2,9 @@ package com.atguigu;
 
 import org.junit.jupiter.api.Test;
 
+import java.nio.charset.StandardCharsets;
+import java.util.Arrays;
+
 /**
  * String的测试类
  */
@@ -26,6 +29,23 @@ public class StringTest {
         System.out.println(s3 == s5);//false
         System.out.println(s4 == s5);//false
         System.out.println(s3 == s6);//true
+
+    }
+
+    @Test
+    public void test02() {
+
+        /**
+         * String 与byte数组的转换
+         * String -> byte[] String的getBytes()
+         * byte[] -> String String的new String(byte[])
+         *
+         */
+        String s1 = "abc123中国";
+        byte[] bytes = s1.getBytes(StandardCharsets.UTF_8);
+        System.out.println(Arrays.toString(bytes));
+        String s2 = new String(bytes);
+        System.out.println(s2);
 
     }
 }
