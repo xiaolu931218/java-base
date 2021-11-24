@@ -48,4 +48,22 @@ public class StringTest {
         System.out.println(s2);
 
     }
+
+    /**
+     * 反转字符串
+     */
+    @Test
+    public void test03() {
+
+        String str = "abcdefg";
+        System.out.println(str);
+        char[] chArray = str.toCharArray();
+        int length = str.length();
+        for (int i = 0; i < length/2; i++) {
+            char temp = chArray[i];
+            chArray[i] = chArray[length - 1 - i];
+            chArray[length - 1 - i] = temp;
+        }
+        System.out.println(new String(chArray));
+    }
 }
